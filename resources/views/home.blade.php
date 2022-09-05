@@ -19,15 +19,7 @@
         </div>
 
         <div class="col-3">
-            <div class="p-3 border bg-success mt-3" style="color: white">10 Pembeli <i class="fa fa-person" style="color: white"></i></div>
-        </div>
-
-        <div class="col-3">
-            <div class="p-3 border bg-success mt-3" style="color: white">10 Pembelian <i class="fa fa-" style="color: white"></i></div>
-        </div>
-
-        <div class="col-3">
-            <div class="p-3 border bg-success mt-3" style="color: white">10 Penjualan <i class="fa fa-boxes" style="color: white"></i></div>
+            <div class="p-3 border bg-success mt-3" style="color: white">10 Member <i class="fa fa-people-group" style="color: white"></i></div>
         </div>
     </div>
 @endsection
